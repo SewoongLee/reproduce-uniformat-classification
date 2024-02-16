@@ -1,0 +1,56 @@
+Level1,Level2,Level3,Class
+SUBSTRUCTURE,Foundations,Standard Foundations,A1010
+SUBSTRUCTURE,Foundations,Special Foundations,A1020
+SUBSTRUCTURE,Foundations,Slab on Grade,A1030
+SHELL,Superstructure,Floor Construction,B1010
+SHELL,Superstructure,Roof Construction,B1020
+SHELL,Exterior Enclosure,Exterior Walls,B2010
+SHELL,Exterior Enclosure,Exterior Windows,B2020
+SHELL,Exterior Enclosure,Exterior Doors,B2030
+SHELL,Roofing,Roof Coverings,B3010
+SHELL,Roofing,Roof Openings,B3020
+INTERIORS,Interior Construction,Partitions,C1010
+INTERIORS,Interior Construction,Interior Doors,C1020
+INTERIORS,Interior Construction,Fittings,C1030
+INTERIORS,Stairs,Stair Construction,C2010
+INTERIORS,Stairs,Stair Finishes,C2020
+INTERIORS,Interior Finishes ,Wall Finishes,C3010
+INTERIORS,Interior Finishes,Floor Finishes,C3020
+INTERIORS,Interior Finishes,Ceiling Finishes,C3030
+SERVICES,Conveying,Elevators & Lifts,D1010
+SERVICES,Conveying,Escalators & Moving Walks,D1020
+SERVICES,Conveying,Other Conveying Systems,D1090
+SERVICES,Plumbing,Plumbing Fixtures,D2010
+SERVICES,Plumbing,Domestic Water Distribution,D2020
+SERVICES,Plumbing,Sanitary Waste,D2030
+SERVICES,Plumbing,Rain Water Drainage,D2040
+SERVICES,Plumbing,Other Plumbing Systems,D2090
+SERVICES,HVAC,Energy Supply,D3010
+SERVICES,HVAC,Heat Generating Systems,D3020
+SERVICES,HVAC,Cooling Generating Systems,D3030
+SERVICES,HVAC,Distribution Systems,D3040
+SERVICES,HVAC,Terminal & Package Units,D3050
+SERVICES,HVAC,Controls & Instrumentation,D3060
+SERVICES,HVAC,Systems Testing & Balancing,D3070
+SERVICES,HVAC,Other HVAC Systems & Equipment,D3090
+SERVICES,Fire Protection,Sprinklers,D4010
+SERVICES,Fire Protection,Standpipes,D4020
+SERVICES,Fire Protection,Fire Protection Specialties,D4030
+SERVICES,Fire Protection,Other Fire Protection Systems,D4090
+SERVICES,Electrical,Electrical Service & Distribution,D5010
+SERVICES,Electrical,Lighting and Branch Wiring,D5020
+SERVICES,Electrical,Communications & Security,D5030
+SERVICES,Electrical,Other Electrical Systems,D5090
+EQUIPMENT & FURNISHINGS,Equipment,Commercial Equipment,E1010
+EQUIPMENT & FURNISHINGS,Equipment,Institutional Equipment,E1020
+EQUIPMENT & FURNISHINGS,Equipment,Vehicular Equipment,E1030
+EQUIPMENT & FURNISHINGS,Equipment,Other Equipment,E1090
+EQUIPMENT & FURNISHINGS,Furnishings,Fixed Furnishings,E2010
+EQUIPMENT & FURNISHINGS,Furnishings,Movable Furnishings,E2020
+SPECIAL CONSTRUCTION & DEMOLITION,Special Construction,Special Structures,F1010
+SPECIAL CONSTRUCTION & DEMOLITION,Special Construction,Integrated Construction,F1020
+SPECIAL CONSTRUCTION & DEMOLITION,Special Construction,Special Construction Systems,F1030
+SPECIAL CONSTRUCTION & DEMOLITION,Special Construction,Special Facilities,F1040
+SPECIAL CONSTRUCTION & DEMOLITION,Special Construction,Special Controls and Instrumentation,F1050
+SPECIAL CONSTRUCTION & DEMOLITION,Selective Building Demolition,Building Elements Demolition,F2010
+SPECIAL CONSTRUCTION & DEMOLITION,Selective Building Demolition,Hazardous Components Abatement,F2020
