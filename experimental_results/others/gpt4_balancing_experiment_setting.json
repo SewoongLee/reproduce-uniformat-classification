@@ -1,6 +1,0 @@
-{
-    "gpt2_balancing": false,
-    "gpt4_balancing": true,
-    "rseed": 42,
-    "simple_balancing": false
-}
